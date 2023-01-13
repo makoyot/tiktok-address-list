@@ -1,5 +1,6 @@
 0.0.0.0	all.quic-tiktok-core-proxy-i18n-gcpva.byteoversea.net
 0.0.0.0	all.quic-tiktok-proxy-i18n-gcpva.byteoversea.net
+0.0.0.0	analytics.tiktok.com
 0.0.0.0	api15-core-useast2a.tiktokv.com
 0.0.0.0	api16-core.tiktokv.com
 0.0.0.0	api16-core-c-useast2a.tiktokv.com
@@ -52,6 +53,7 @@
 0.0.0.0	p16-sign-sg.tiktokcdn.com
 0.0.0.0	p16-sign-va.tiktokcdn.com
 0.0.0.0	p16-va.tiktokcdn.com
+0.0.0.0	p77-sign-va.tiktokcdn.com
 0.0.0.0	p9-sign-sg.tiktokcdn.com
 0.0.0.0	pitaya.tiktokv.com
 0.0.0.0	pitaya-sg.tiktokv.com
